@@ -89,7 +89,6 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<nokogiri>, [">= 1.5.5"])
       s.add_runtime_dependency(%q<crack>, [">= 0"])
       s.add_runtime_dependency(%q<rest-client>, ["~> 1.6.0"])
-      s.add_runtime_dependency(%q<happymapper>, [">= 0.3.2"])
       s.add_runtime_dependency(%q<builder>, [">= 0"])
       s.add_runtime_dependency(%q<nokogiri>, [">= 1.4.3"])
       s.add_development_dependency(%q<rspec>, [">= 0"])
@@ -103,7 +102,6 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<nokogiri>, [">= 1.5.5"])
       s.add_dependency(%q<crack>, [">= 0"])
       s.add_dependency(%q<rest-client>, ["~> 1.6.0"])
-      s.add_dependency(%q<happymapper>, [">= 0.3.2"])
       s.add_dependency(%q<builder>, [">= 0"])
       s.add_dependency(%q<nokogiri>, [">= 1.4.3"])
       s.add_dependency(%q<rspec>, [">= 0"])
@@ -118,7 +116,6 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<nokogiri>, [">= 1.5.5"])
     s.add_dependency(%q<crack>, [">= 0"])
     s.add_dependency(%q<rest-client>, ["~> 1.6.0"])
-    s.add_dependency(%q<happymapper>, [">= 0.3.2"])
     s.add_dependency(%q<builder>, [">= 0"])
     s.add_dependency(%q<nokogiri>, [">= 1.4.3"])
     s.add_dependency(%q<rspec>, [">= 0"])
@@ -127,4 +124,3 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<stale_fish>, ["~> 1.3.0"])
   end
 end
-
